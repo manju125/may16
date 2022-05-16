@@ -3,5 +3,6 @@
 <h2>Hello World!</h2>
 <h2>Testing maven deployment</h2>
 <h3>2nd test from maven deployment</h2>
+<h3>3rd test for integration</h3>
 </body>
 </html>
